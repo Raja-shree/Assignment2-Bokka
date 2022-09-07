@@ -43,5 +43,5 @@
 * Ramoji Film City
     * Cinematic Location
 * Hussain Sagar Lake
-    * sightseeing Place for people
+    * sightseeing Place for people.
 
