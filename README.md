@@ -54,5 +54,13 @@
 |Vizag   | Bench      | 2 hrs|
 |Pocharam| lake       | 5 hrs|    
  
+ ----
+ ## Pithy Quotes
+
+ > * "To be or not to be, that is the question." ~ *William Shakespeare*
+ 
+ > * "Two roads diverged in a wood, and I, I took the one less travelled by, and that has made all the difference." ~ *Robert Frost*
+
+
 
 
