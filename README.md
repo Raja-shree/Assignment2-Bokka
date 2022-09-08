@@ -46,3 +46,13 @@
 
 ![AboutMyself](AboutMe.md)
 
+## Creating table for tourist places that you want to recommend someone to visit.
+    this are the places that I prefer to visit and moreover I recommend family and friends to travel when their go to Hyderabad
+|CityName|Location|Time|
+|---     |----    |--- |
+|Begumpet|Shiva Temple| 4 hrs|
+|Vizag   | Bench      | 2 hrs|
+|Pocharam| lake       | 5 hrs|    
+ 
+
+
