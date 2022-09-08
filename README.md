@@ -5,13 +5,11 @@
 **** 
 ## Rajiv Gandhi International Airport
     this airport is near to the hyderabad location and central land for many location as well as to the other countries.
- 
-### Rajiv Gandhi International Airport
-    this airport is near to the hyderabad location and central land for many location as well as to the other countries.
 
 ### Traveling to museum from airport by car.
 
 ### Route Direction  which is closest to the airport from museum.
+
 
 1.  Head east on Airport Approch Road toward Cargo Rotary
 2. At Cargo Rotary, take the 1st exit and stay on Airport Approach Road
@@ -33,6 +31,7 @@
     2. Slight left
     3. Turn left
 14. Health Museum (Public Gardens, Red Hills)
+
 ### List of other Location that are near to the muesum
 * Nehru Zoo Park
     * Favourite Place for Childrens
