@@ -58,8 +58,39 @@
  ## Pithy Quotes
 
  > * "To be or not to be, that is the question." ~ *William Shakespeare*
- 
+
  > * "Two roads diverged in a wood, and I, I took the one less travelled by, and that has made all the difference." ~ *Robert Frost*
+ <hr>
+ <br>
+
+ ## CODE SNIPPET- WordPress
+
+ <br>
+ > How to Add/remove contact info fields-[stackflow.com_](https://stackoverflow.com/questions/17946277/how-to-delete-a-specific-field-in-a-contact)
+
+ <br>
+
+ ~~~
+ function new_contactmethods( $contactmethods ) {
+   $contactmethods['twitter'] = 'Twitter'; // Add Twitter
+   $contactmethods['facebook'] = 'Facebook'; // Add Facebook
+   unset($contactmethods['yim']); // Remove YIM
+   unset($contactmethods['aim']); // Remove AIM
+   unset($contactmethods['jabber']); // Remove Jabber
+   return $contactmethods;
+}
+~~~
+[Quick-link](https://css-tricks.com/snippets/wordpress/addremove-contact-info-fields/)for the snippet source [CSS-TRICKS.COM]
+
+
+
+
+
+
+
+ 
+ 
+
 
 
 
