@@ -80,7 +80,7 @@
    return $contactmethods;
 }
 ~~~
-[Quick-link](https://css-tricks.com/snippets/wordpress/addremove-contact-info-fields/)for the snippet source [CSS-TRICKS.COM]
+[Quick-link](https://css-tricks.com/snippets/wordpress/addremove-contact-info-fields/)for the snippet source [WRDPRS-TRICKS.COM]
 
 
 
